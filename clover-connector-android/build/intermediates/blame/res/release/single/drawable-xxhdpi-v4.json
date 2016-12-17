@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/return_to_merchant.png",
+        "source": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/drawable-xxhdpi/return_to_merchant.png"
+    },
+    {
+        "merged": "/Users/haulx94/AndroidProject/MyCloverApp/clover-connector-android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/return_to_merchant.png",
+        "source": "/Users/haulx94/AndroidProject/MyCloverApp/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/drawable-xxhdpi/return_to_merchant.png"
+    }
+]

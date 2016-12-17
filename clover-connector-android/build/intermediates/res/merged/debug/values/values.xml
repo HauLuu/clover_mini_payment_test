@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_return_to_merchant">#263338</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="hmargin">16dp</dimen>
+    <dimen name="signature_height">500dp</dimen>
+    <dimen name="signature_width">600dp</dimen>
+    <dimen name="vmargin">8dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">common-remote</string>
+    <string name="backToRegisterDescription">Rotate to the right back to the merchant</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="modify_orders_authority" translatable="false">com.clover.remote.terminal.modify_order</string>
+    <string name="returnToMerchant">Please return this device to an employee</string>
+    <string name="returnToMerchantPaymentSuccessful">Thank you for your purchase. Please return this device to an employee</string>
+    <string name="returnToMerchantTitle">All Done!</string>
+    <string name="rotateInstructions">Thanks for your purchase.\nPlease rotate the screen back.</string>
+    <string name="title_activity_account_chooser">Clover Accounts</string>
+    <string name="title_activity_clover_merchant_device">CloverMerchantDevice</string>
+    <string name="tx_start_response_result_fail">Unknown reason.</string>
+    <string name="tx_start_response_result_order_load">Unable to create or load order. Does your customer facing device have network connectivity?</string>
+    <string name="tx_start_response_result_order_modified">Order was modified after the transaction was started.</string>
+    <string name="tx_start_response_result_success">Success.</string>
+    <style name="DialogThemeNoWindow" parent="android:Theme.Holo.Light.Dialog">
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowFullscreen">true</item>
+  </style>
+    <style name="Instructions">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_centerHorizontal">true</item>
+    <item name="android:fontFamily">sans-serif-light</item>
+    <item name="android:textSize">22sp</item>
+    <item name="android:layout_marginBottom">16dp</item>
+  </style>
+    <style name="ReturnToMerchantInstructions">
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_centerHorizontal">true</item>
+    <item name="android:fontFamily">sans-serif</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:singleLine">true</item>
+    <item name="android:textAllCaps">true</item>
+  </style>
+    <style name="ReturnToMerchantTitle">
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_centerHorizontal">true</item>
+    <item name="android:fontFamily">sans-serif-thin</item>
+    <item name="android:textSize">72sp</item>
+    <item name="android:singleLine">true</item>
+  </style>
+    <style name="RotateToCustomer">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:src">@drawable/rotate_merchant_to_customer</item>
+  </style>
+    <style name="RotateToMerchant">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:src">@drawable/rotate_customer_to_merchant</item>
+  </style>
+</resources>

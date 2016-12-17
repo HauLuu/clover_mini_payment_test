@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/haulx94/AndroidProject/MyCloverApp/clover-connector-android/build/intermediates/res/merged/release/drawable-mdpi-v4/return_to_merchant.png",
+        "source": "/Users/haulx94/AndroidProject/MyCloverApp/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/drawable-mdpi/return_to_merchant.png"
+    },
+    {
+        "merged": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/res/merged/release/drawable-mdpi-v4/return_to_merchant.png",
+        "source": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/drawable-mdpi/return_to_merchant.png"
+    },
+    {
+        "merged": "/Users/haulx94/AndroidProject/MyCloverApp/clover-connector-android/build/intermediates/res/merged/release/drawable-mdpi-v4/rotate_merchant_to_customer.png",
+        "source": "/Users/haulx94/AndroidProject/MyCloverApp/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/drawable-mdpi/rotate_merchant_to_customer.png"
+    },
+    {
+        "merged": "/Users/haulx94/AndroidProject/MyCloverApp/clover-connector-android/build/intermediates/res/merged/release/drawable-mdpi-v4/rotate_customer_to_merchant.png",
+        "source": "/Users/haulx94/AndroidProject/MyCloverApp/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/drawable-mdpi/rotate_customer_to_merchant.png"
+    },
+    {
+        "merged": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/res/merged/release/drawable-mdpi-v4/rotate_merchant_to_customer.png",
+        "source": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/drawable-mdpi/rotate_merchant_to_customer.png"
+    },
+    {
+        "merged": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/res/merged/release/drawable-mdpi-v4/rotate_customer_to_merchant.png",
+        "source": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/drawable-mdpi/rotate_customer_to_merchant.png"
+    }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/jenkins/workspace/release-apps/workspace/android-common/clover-remote-interface/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="hmargin">16dp</dimen>
+    <dimen name="signature_height">500dp</dimen>
+    <dimen name="signature_width">600dp</dimen>
+    <dimen name="vmargin">8dp</dimen>
+    <!-- From: file:/home/jenkins/workspace/release-apps/workspace/android-common/clover-remote-interface/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">common-remote</string>
+    <string name="modify_orders_authority" translatable="false">com.clover.remote.terminal.modify_order</string>
+    <string name="tx_start_response_result_fail">Unknown reason.</string>
+    <string name="tx_start_response_result_order_load">Unable to create or load order. Does your customer facing device have network connectivity?</string>
+    <string name="tx_start_response_result_order_modified">Order was modified after the transaction was started.</string>
+    <string name="tx_start_response_result_success">Success.</string>
+</resources>

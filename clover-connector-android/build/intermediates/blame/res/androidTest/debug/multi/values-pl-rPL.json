@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pl-rPL/values-pl-rPL.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/values-pl-rPL/values-pl-rPL.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 71,
+                        "endOffset": 289
+                    }
+                }
+            }
+        ]
+    }
+]

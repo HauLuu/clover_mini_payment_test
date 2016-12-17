@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/src/debug/shaders"/></dataSet></merger>

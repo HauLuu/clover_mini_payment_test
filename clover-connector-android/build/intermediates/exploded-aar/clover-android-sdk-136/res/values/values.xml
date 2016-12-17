@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/jenkins/workspace/release-apps/workspace/clover-android-sdk/clover-android-sdk/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="background_return_to_merchant">#263338</color>
+    <!-- From: file:/home/jenkins/workspace/release-apps/workspace/clover-android-sdk/clover-android-sdk/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="backToRegisterDescription">Rotate to the right back to the merchant</string>
+    <string name="returnToMerchant">Please return this device to an employee</string>
+    <string name="returnToMerchantPaymentSuccessful">Thank you for your purchase. Please return this device to an employee</string>
+    <string name="returnToMerchantTitle">All Done!</string>
+    <string name="rotateInstructions">Thanks for your purchase.\nPlease rotate the screen back.</string>
+    <string name="title_activity_account_chooser">Clover Accounts</string>
+    <!-- From: file:/home/jenkins/workspace/release-apps/workspace/clover-android-sdk/clover-android-sdk/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="DialogThemeNoWindow" parent="android:Theme.Holo.Light.Dialog">
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowFullscreen">true</item>
+  </style>
+    <style name="Instructions">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_centerHorizontal">true</item>
+    <item name="android:fontFamily">sans-serif-light</item>
+    <item name="android:textSize">22sp</item>
+    <item name="android:layout_marginBottom">16dp</item>
+  </style>
+    <style name="ReturnToMerchantInstructions">
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_centerHorizontal">true</item>
+    <item name="android:fontFamily">sans-serif</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:singleLine">true</item>
+    <item name="android:textAllCaps">true</item>
+  </style>
+    <style name="ReturnToMerchantTitle">
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_centerHorizontal">true</item>
+    <item name="android:fontFamily">sans-serif-thin</item>
+    <item name="android:textSize">72sp</item>
+    <item name="android:singleLine">true</item>
+  </style>
+    <style name="RotateToCustomer">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:src">@drawable/rotate_merchant_to_customer</item>
+  </style>
+    <style name="RotateToMerchant">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:src">@drawable/rotate_customer_to_merchant</item>
+  </style>
+</resources>

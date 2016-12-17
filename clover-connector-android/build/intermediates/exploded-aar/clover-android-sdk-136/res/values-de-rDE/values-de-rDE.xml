@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/jenkins/workspace/release-apps/workspace/clover-android-sdk/clover-android-sdk/src/main/res/values-de-rDE/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_account_chooser">Clover-Konten</string>
+</resources>

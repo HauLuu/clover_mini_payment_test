@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/res/merged/debug/layout/return_to_merchant_dialog_fragment.xml",
+        "source": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/layout/return_to_merchant_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/res/merged/debug/layout/activity_clover_merchant_device.xml",
+        "source": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/src/main/res/layout/activity_clover_merchant_device.xml"
+    },
+    {
+        "merged": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/res/merged/debug/layout/rotate_to_customer_dialog_fragment.xml",
+        "source": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/layout/rotate_to_customer_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/res/merged/debug/layout/rotate_to_merchant_dialog_fragment.xml",
+        "source": "/Users/haulx94/AndroidProject/remote-pay-android/clover-connector-android/build/intermediates/exploded-aar/clover-android-sdk-136/res/layout/rotate_to_merchant_dialog_fragment.xml"
+    }
+]
